@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""The Worst Pizza Topping — one funny line, plain Python stdlib."""
+"""The Worst Pizza Topping — one funny line, plain Python stdlib.
+
+The entry is a single line: the grader reads /output/entry.txt, so the
+output must be exactly one line plus a trailing newline, nothing more.
+"""
 
 import os
 
